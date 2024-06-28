@@ -5,7 +5,7 @@ After that, I learned the basics of HTML and CSS, then started to build some REA
 fun of doing so. Unfortunately I had to quit programming when I started High School, because I needed to focus on studying for my exams. After finishing High School, I spent one year and a half at Law School (which I didn't like
 very much), then decided to change to Math, where at the second semester I had contact with the C language for a specific class. I fell in love again with technologies and development, so, after a lot of thinking, I decided to definetly
 move my focus to study just that: the art of programming and everything that envolves it.</p>
-<p>I have finished succesfully Harvard's CS50x and CS50p, where I had contact with C, Python, JavaScript among other things. Currently, I'm dedicating my time to study - on my own - Java and Spring Boot, while building projects that aim to
+<p>I have finished succesfully Harvard's CS50x and CS50p, where I had contact with C, Python, JavaScript among other things. Currently, I'm dedicating my time to study - on my own - Java and Python, while building projects that aim to
 solve real life problems (or any crazy ideas that I have really), and am also studying Data Structures and Algorithms to perfect my skills.</p>
 
 <!---
