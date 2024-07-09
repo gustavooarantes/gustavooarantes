@@ -8,6 +8,8 @@ move my focus to study just that: the art of programming and everything that env
 <p>I have finished succesfully Harvard's CS50x and CS50p, where I had contact with C, Python, JavaScript among other things. Currently, I'm dedicating my time to study - on my own - JavaScript and Python, while building projects that aim to
 solve real life problems (or any crazy ideas that I have really), and am also studying Data Structures and Algorithms to perfect my skills.</p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavooarantes&size_weight=0.5&count_weight=0.5&theme=radical)
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavooarantes&show_icons=true&theme=radical)
 <!---
 gustavooarantes/gustavooarantes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
