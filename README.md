@@ -1,8 +1,7 @@
 <h1>Welcome to my profile!</h1>
-<p>Hello, my name is Gustavo, I'm a developer and currently studying to become a data analyst!</p>
+<p>Hello, my name is Gustavo, and I'm currently studying to become a back-end developer!</p>
 <p>Pursuing a degree in Systems Analysis and Development.
-Passionate about technology, I have solid experience using tools such as Python, SQL and NoSQL, Excel, and Power BI, always striving to stay updated with the latest market trends.
-Currently, I work as an intern in Business Intelligence, where I use my skills to transform complex data into strategic insights that support business decision-making. Additionally, my previous experience in a Bachelor's program in Mathematics, during which I conducted research related to the field of Optimization, allows me to understand algorithms and data structures concepts at a higher level of abstraction, enabling me to apply them more efficiently depending on each situation.</p>
+Passionate about technology, I have solid experience using languages such as Java and Python, using them to develop APIs that can be easily applied to other services. For performing such tasks, I have used tools like Java Spring (with libraries like Spring Web, Hibernate(JPA/Validation), Lombok, Spring Security, OAuth2 and SPring AMQP), Django and Flask. I have knowledge related to different system architectures (like monolites and microservices), Docker and Kubernetes, RabbitMQ, unit tests and both relation and non-relational databases (SQL and NoSQL), using MySQL, PostgreSQL and MongoDB.</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavooarantes&size_weight=0.5&count_weight=0.5&theme=radical)
 ![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavooarantes&show_icons=true&theme=radical)
