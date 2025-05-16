@@ -1,11 +1,45 @@
-<h1>Welcome to my profile!</h1>
-<p>Hello, my name is Gustavo, and I'm currently studying to become a back-end developer!</p>
-<p>Pursuing a degree in Systems Analysis and Development, I intend to become more active here on GitHub from May/2025 on (so far I only commited some pratice codings and a few projects).
-Passionate about technology, I have solid experience using languages such as Java and Python, using them to develop APIs (REST, WebSockets, SOAP) that can be easily applied to solve real world problems. For performing such tasks, I have used tools like Java Spring (with libraries like Spring Web, Hibernate(JPA/Validation), Lombok, Spring Security, OAuth2 and Spring AMQP), Django. I have theoretical knowledge related to different system architectures (like MVCs and microservices), Docker and Kubernetes (basic), RabbitMQ, unit tests (JUnit and PyTest) and relational databases - SQL (MySQL, Postgres).</p>
+## 👋 Hi there! I'm Gustavo, welcome to my GitHub Profile!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavooarantes&size_weight=0.5&count_weight=0.5&theme=radical)
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavooarantes&show_icons=true&theme=radical)
-<!---
-gustavooarantes/gustavooarantes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm from 🇧🇷 Brazil, currently pursuing a degree in **Systems Analysis and Development**.  
+I'm studying to become a **Back-End Developer Specialist**, while also working with **Web Development**.
+
+I aim to build a solid career in tech and to contribute to society with my skills, always looking forward to:
+- 🌱 Contribute to open source projects
+- 🤝 Participate in tech communities
+- 🎯 Engage in competitions that challenge my creativity
+
+---
+
+### 🛠️ Skills & Interests
+
+- **Back-End Development**  
+- **Web Development**  
+- **Design Patterns & Software Architectures**
+- **DevOps**
+
+---
+
+### 🧰 Tools & Technologies
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+</div>
+
+---
+
+Let's connect and build something great together! 🚀
+Feel free to contact me on my LinkedIn profile or by e-mail!
