@@ -42,4 +42,4 @@ I aim to build a solid career in tech and to contribute to society with my skill
 ---
 
 Let's connect and build something great together! 🚀
-Feel free to contact me on my LinkedIn profile or by e-mail!
+Feel free to contact me on my LinkedIn profile or by e-mail
