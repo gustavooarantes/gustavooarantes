@@ -19,7 +19,7 @@ I aim to build a solid career in tech and to contribute to society with my skill
 
 ---
 
-### 🧰 Tools & Technologies
+### ⚙️ Tools & Technologies
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
