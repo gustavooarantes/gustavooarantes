@@ -1,7 +1,7 @@
 ## 👋 Hi there! I'm Gustavo, welcome to my GitHub Profile!
 
 I'm from 🇧🇷 Brazil, currently pursuing a degree in **Systems Analysis and Development**.  
-I'm studying to become a **Back-End Developer Specialist**, while also working with **Web Development**.
+I'm studying to become a **Back-End Developer**, focusing on **Web Development**.
 
 I aim to build a solid career in tech and to contribute to society with my skills, always looking forward to:
 - 🌱 Contribute to open source projects
@@ -14,8 +14,9 @@ I aim to build a solid career in tech and to contribute to society with my skill
 
 - **Back-End Development**  
 - **Web Development**  
-- **Design Patterns & Software Architectures**
+- **Software Architectures**
 - **DevOps**
+- **Best coding practices**
 
 ---
 
