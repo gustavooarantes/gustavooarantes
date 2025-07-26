@@ -13,7 +13,7 @@ I aim to build a solid career in tech and to contribute to society with my skill
 
 ### 🛠️ Skills & Interests
 
-- **Systems Development**
+- **System-level Applications Development**
 - **Back-End Development**  
 - **Software Architectures**
 - **DevOps**
