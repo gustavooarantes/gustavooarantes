@@ -41,6 +41,7 @@ I'm from 🇧🇷 Brazil, currently pursuing a degree in **Systems Analysis and 
 <img src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="40" />
 <img src="https://img.shields.io/badge/Terraform-%235835CC?style=for-the-badge&logo=terraform&logoColor=white" height="40" />
 <img src="https://img.shields.io/badge/Ansible-%23000000?style=for-the-badge&logo=ansible&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/Jenkins-%23D24939?style=for-the-badge&logo=jenkins&logoColor=white" height="40" />
 
 <img src="https://img.shields.io/badge/Swagger-%2385EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="40" />
 <img src="https://img.shields.io/badge/RabbitMQ-%23FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" height="40" />
