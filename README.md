@@ -12,7 +12,7 @@ I'm from 🇧🇷 Brazil, currently pursuing a degree in **Systems Analysis and 
   <b>Back-End Development</b><br>
   <b>Computer Networks</b><br>
   <b>Competitive Programming</b><br>
-  <b>Systems Architectures</b>
+  <b>Software Architecture</b>
 </div>
 
 ---
