@@ -8,11 +8,12 @@ I'm from 🇧🇷 Brazil, currently pursuing a degree in **Systems Analysis and 
 
 <div align="center">
   <h3> 🛠️ Skills & Interests </h3>
-  <b>Embedded and Operating Systems</b><br>
   <b>Back-End Development</b><br>
   <b>Computer Networks</b><br>
+  <b>Embedded and Operating Systems</b><br>
   <b>Competitive Programming</b><br>
-  <b>Software Architecture</b>
+  <b>Software Architecture</b><br>
+  <b>Open-source Projects</b>
 </div>
 
 ---
