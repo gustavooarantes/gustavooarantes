@@ -46,5 +46,4 @@ I'm from 🇧🇷 Brazil, currently pursuing a degree in **Systems Analysis and 
 
 <img src="https://img.shields.io/badge/Swagger-%2385EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="40" />
 <img src="https://img.shields.io/badge/RabbitMQ-%23FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" height="40" />
-<img src="https://img.shields.io/badge/Kafka-%231C1C1C?style=for-the-badge&logo=apachekafka&logoColor=white" height="40" />
 </div>
