@@ -47,11 +47,3 @@ I'm from 🇧🇷 Brazil, currently pursuing a degree in **Systems Analysis and 
 <img src="https://img.shields.io/badge/Swagger-%2385EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="40" />
 <img src="https://img.shields.io/badge/RabbitMQ-%23FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" height="40" />
 </div>
-
-<div align="center">
-
-<p>&nbsp;</p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavooarantes&layout=compact&theme=github_dark)
-
-</div>
