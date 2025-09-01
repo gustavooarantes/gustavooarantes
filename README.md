@@ -21,7 +21,10 @@ I'm from 🇧🇷 Brazil, currently pursuing a degree in **Systems Analysis and 
 <div align="center">
   <h3> ⚙️ Tech Stack </h3>
 <img src="https://img.shields.io/badge/Go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white" height="40" />
-<img src="https://img.shields.io/badge/Rust-%23000000?style=for-the-badge&logo=rust&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/Elixir-%234F2A92?style=for-the-badge&logo=elixir&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/Phoenix-%23F93D00?style=for-the-badge&logo=phoenix-framework&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/Ecto-%23000000?style=for-the-badge&logo=ecto&logoColor=white" height="40" />
+
 <img src="https://img.shields.io/badge/--%2300599C?style=for-the-badge&logo=c&logoColor=white" height="40" />
 <img src="https://img.shields.io/badge/--%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="40" />
 
