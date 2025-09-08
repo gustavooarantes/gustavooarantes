@@ -9,10 +9,9 @@ I'm from 🇧🇷 Brazil, currently pursuing a degree in **Systems Analysis and 
 <div align="center">
   <h3> 🛠️ Skills & Interests </h3>
   <b>Back-End Development</b><br>
-  <b>Computer Networks</b><br>
-  <b>Embedded and Operating Systems</b><br>
-  <b>Competitive Programming</b><br>
+  <b>Computer Networks & Operating Systems</b><br>
   <b>Software Architecture</b><br>
+  <b>Competitive Programming</b><br>
   <b>Open-source Projects</b>
 </div>
 
