@@ -22,16 +22,16 @@ I'm from 🇧🇷 Brazil, currently pursuing a degree in **Systems Analysis and 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim,java,spring,go,c,rust,py" />
+    <img src="https://skillicons.dev/icons?i=neovim,java,spring,go,c,rust" />
   </a><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,rabbitmq,kafka" />
   </a><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=maven,hibernate,aws,terraform,nginx,grafana,prometheus" />
+    <img src="https://skillicons.dev/icons?i=maven,hibernate,aws,nginx,grafana,prometheus" />
   </a><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kubernetes,jenkins,git,gitlab,github,githubactions" />
+    <img src="https://skillicons.dev/icons?i=terraform,kubernetes,jenkins,git,gitlab,github,githubactions" />
   </a>
 </p>
 
