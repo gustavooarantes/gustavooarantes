@@ -1,8 +1,8 @@
 ## 👋 Hi there! I'm Gustavo, welcome to my GitHub Profile!
 
-I'm from 🇧🇷 Brazil, currently working as a **Java Back-end Software Engineer**.
+I'm from 🇧🇷 Brazil, and I currently work as a **Java Back-end Software Engineer**.
 
-🚀 Feel free to check a few of my recent projects listed under the README.md section! You can also reach out to me from my website, LinkedIn profile, or email!
+🚀 Check out some of my recent projects below! Feel free to reach out via my website, LinkedIn, or email.
 
 ---
 
