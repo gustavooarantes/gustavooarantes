@@ -8,7 +8,7 @@ I'm from 🇧🇷 Brazil, and I currently work as a **Java Back-end Software Eng
 
 <div align="center">
   <h3> 🛠️ Skills & Interests </h3>
-  <b>Back-End Development</b><br>
+  <b>Back-End Development & Computer Networks</b><br>
   <b>Embedded Systems & Operating Systems</b><br>
   <b>Design Patterns & Software Architecture</b><br>
   <b>Competitive Programming</b><br>
