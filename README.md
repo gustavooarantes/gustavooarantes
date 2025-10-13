@@ -20,16 +20,13 @@ I'm from 🇧🇷 Brazil, and I currently work as a ☕ **Java Back-end Software
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim,java,spring,go,c" />
+    <img src="https://skillicons.dev/icons?i=neovim,java,spring,go,c,cpp,postgres" />
   </a><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,rabbitmq,kafka" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,docker,rabbitmq,kafka,git" />
   </a><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=maven,hibernate,aws,nginx,grafana,prometheus" />
-  </a><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=terraform,kubernetes,jenkins,git,gitlab,github,githubactions" />
+    <img src="https://skillicons.dev/icons?i=maven,aws,grafana,prometheus,kubernetes,jenkins,gitlab" />
   </a>
 </p>
 
