@@ -2,7 +2,7 @@
 
 I'm from 🇧🇷 Brazil, and I currently work as a ☕ **Java Back-end Software Engineer**.
 
-🚀 Check out some of my recent projects below! Feel free to reach out via my website, LinkedIn, or email.
+🚀 Check out some of my recent projects below! Feel free to reach out via my LinkedIn profile, or email.
 
 ---
 
