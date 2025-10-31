@@ -1,32 +1,28 @@
 ## 👋 Hi there! I'm Gustavo, welcome to my GitHub Profile!
 
-I'm from 🇧🇷 Brazil, and I currently work as a ☕ **Java Back-end Software Engineer**.
-
-🚀 Check out some of my recent projects below! Feel free to reach out via my LinkedIn profile, or email.
+I'm a software enginner from 🇧🇷 Brazil.
 
 ---
 
-<div align="center">
-  <h3> 💻 Skills & Interests </h3>
-  <b>Back-End Development & Embedded Systems</b><br>
+<div align="left">
+  <h3> Topics I'm into </h3>
+  <b>Back-End Development</b><br>
+  <b>Embedded Systems</b><br>
+  <b>Open-source Projects</b><br>
   <b>Computer Networks & Operating Systems</b><br>
-  <b>Design Patterns & Software Architecture</b><br>
 </div>
 
 ---
 <div align="center">
-  <h3> ⚡ Tech Stack </h3>
+  <h3> Techs I like </h3>
 </div>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim,java,spring,go,python,cpp,rust" />
+    <img src="https://skillicons.dev/icons?i=neovim,arch,go,rust,cpp,java,python" />
   </a><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,kubernetes,rabbitmq,kafka" />
-  </a><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,aws,grafana,prometheus,jenkins,git,gitlab" />
   </a>
 </p>
 
