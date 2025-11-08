@@ -19,7 +19,7 @@ I'm a software enginner from 🇧🇷 Brazil.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim,arch,go,rust,cpp,java,python" />
+    <img src="https://skillicons.dev/icons?i=neovim,arch,go,java,python" />
   </a><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,kubernetes,rabbitmq,kafka" />
