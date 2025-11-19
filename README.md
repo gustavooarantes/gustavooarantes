@@ -19,10 +19,10 @@ I'm a software enginner from 🇧🇷 Brazil.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim,arch,go,java,python" />
+    <img src="https://skillicons.dev/icons?i=neovim,linux,go,java,spring,python,js,vue" />
   </a><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,kubernetes,rabbitmq,kafka" />
+    <img src="https://skillicons.dev/icons?i=git,postgres,mongodb,redis,docker,kubernetes,rabbitmq,kafka" />
   </a>
 </p>
 
