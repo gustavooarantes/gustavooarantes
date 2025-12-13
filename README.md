@@ -1,28 +1,21 @@
-## 👋 Hi there! I'm Gustavo, welcome to my GitHub Profile!
+<h2 align="center">Hi there! I'm Gustavo, welcome to my profile!</h2>
 
-I'm a software enginner from 🇧🇷 Brazil.
-
----
-
-<div align="left">
-  <h3> Topics I'm into </h3>
-  <b>Back-End Development</b><br>
+<div align="center">
+  <h3> Topics I'm interested </h3>
   <b>Embedded Systems</b><br>
-  <b>Open-source Projects</b><br>
+  <b>Linux Kernel Development</b><br>
   <b>Computer Networks & Operating Systems</b><br>
+  <b>Backend Development</b><br>
 </div>
 
 ---
 <div align="center">
-  <h3> Techs I like </h3>
+  <h3> Techs I like/use </h3>
 </div>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim,linux,go,java,spring,python,js,vue" />
-  </a><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,postgres,mongodb,redis,docker,kubernetes,rabbitmq,kafka" />
+    <img src="https://skillicons.dev/icons?i=neovim,linux,arch,c,cpp,bash,go,java,docker,kubernetes,git" />
   </a>
 </p>
 
