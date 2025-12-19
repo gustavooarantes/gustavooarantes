@@ -15,7 +15,10 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim,linux,arch,c,cpp,bash,go,java,docker,kubernetes,git" />
+    <img src="https://skillicons.dev/icons?i=neovim,linux,arch,c,bash,go,cs,dotnet,typescript,react" />
+  </a> </br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,postgres,mongodb,redis,git,gitlab,azure,aws" />
   </a>
 </p>
 
