@@ -2,10 +2,9 @@
 
 <div align="center">
   <h3> Topics I'm interested </h3>
-  <b>Embedded Systems</b><br>
-  <b>Linux Kernel Development</b><br>
-  <b>Computer Networks & Operating Systems</b><br>
   <b>Backend Development</b><br>
+  <b>Linux/Unix-like Systems Programming</b><br>
+  <b>Computer Networks & Operating Systems</b><br>
 </div>
 
 ---
