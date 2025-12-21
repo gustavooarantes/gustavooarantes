@@ -5,6 +5,7 @@
   <b>Backend Development</b><br>
   <b>Linux/Unix-like Systems Programming</b><br>
   <b>Computer Networks & Operating Systems</b><br>
+  <b>Cybersecurity</b></br>
 </div>
 
 ---
