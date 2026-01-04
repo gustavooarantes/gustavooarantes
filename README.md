@@ -3,9 +3,9 @@
 <div align="center">
   <h3> Topics I'm interested </h3>
   <b>Backend Development</b><br>
+  <b>Software Architecture & Systems Design</b></br>
   <b>Linux/Unix-like Systems Programming</b><br>
-  <b>Computer Networks & Operating Systems</b><br>
-  <b>Cybersecurity</b></br>
+  <b>Computer Networks, Operating Systems & Database Internals</b><br>
 </div>
 
 ---
