@@ -1,7 +1,7 @@
 <h2 align="center">Hi there! I'm Gustavo, welcome to my profile!</h2>
 
 <div align="center">
-  <h3> Topics I'm interested </h3>.
+  <h3> Topics I'm interested </h3>
   <b>Backend Development</b><br>
   <b>Software Architecture & Systems Design</b></br>
   <b>Linux/Unix-like Systems Programming</b><br>
