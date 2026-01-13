@@ -5,7 +5,7 @@
   <b>Backend Development</b><br>
   <b>Software Architecture & Systems Design</b></br>
   <b>Linux/Unix-like Systems Programming</b><br>
-  <b>Computer Networks, Operating Systems & Database Internals</b><br>
+  <b>Computer Networks, Operating Systems & Database Engineering</b><br>
 </div>
 
 ---
