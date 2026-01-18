@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <h3> Techs I like/use </h3>
+  <h3> Techs </h3>
 </div>
 
 <p align="center">
