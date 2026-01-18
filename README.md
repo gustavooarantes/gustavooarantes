@@ -8,7 +8,6 @@
   <b>Computer Networks, Operating Systems & Database Engineering</b><br>
 </div>
 
----
 <div align="center">
   <h3> Techs I like/use </h3>
 </div>
