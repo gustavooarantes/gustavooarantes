@@ -1,4 +1,4 @@
-<h2 align="center">Hi there! I'm Gustavo, welcome to my profile!!!</h2>
+<h2 align="center">Hi there! I'm Gustavo, welcome to my profile!</h2>
 
 <div align="center">
   <h3> Topics I'm interested </h3>
